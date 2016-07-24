@@ -1,0 +1,1 @@
+[embed]https://github.com/Aniruddha-Tapas/Human-Activity-Recognition/blob/master/Reports/Handout.pdf[/embed]
